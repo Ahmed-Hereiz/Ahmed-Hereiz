@@ -1,1 +1,1 @@
-I like training neural networks and implementing AI agents
+I like training neural networks and implementing AI agents.
